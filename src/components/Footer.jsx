@@ -9,8 +9,8 @@ const Footer = () => {
         <div className="flex flex-col lg:flex-row items-center justify-between space-y-8 lg:space-y-0">
           {/* Logo and Copyright */}
           <div className="text-center lg:text-left">
-            <h1 className="text-2xl font-bold leading-tight">Dhanapati<br /></h1>
-            <p className="mt-2 text-gray-400">© 2025 Dhanapati</p>
+            <h1 className="text-2xl font-bold leading-tight">Subh IT Company<br /></h1>
+            <p className="mt-2 text-gray-400">© 2025 Subh IT Company</p>
           </div>
 
           {/* Navigation Links */}

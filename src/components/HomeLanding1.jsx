@@ -12,7 +12,7 @@ export default function HomeLanding1() {
       {/* Navigation */}
       <nav className="fixed top-0 left-0 right-0 bg-white z-50 px-6 py-4 flex items-center justify-between border-b">
         <Link to="/" className="flex items-center">
-          <img src={logo} alt="Dhanapati Logo" className="h-10 w-auto" />
+          <img src={logo} alt="Subh IT Company Logo" className="h-10 w-auto" />
         </Link>
 
         <div className="flex items-center gap-4">
@@ -34,7 +34,7 @@ export default function HomeLanding1() {
         <div className="p-6">
           <div className="flex items-center justify-between mb-8">
             <Link to="/" className="flex items-center">
-              <img src={logo} alt="Dhanapati Logo" className="h-14 w-auto" />
+              <img src={logo} alt="Subh IT Company Logo" className="h-14 w-auto" />
             </Link>
             <button
               onClick={() => setIsMenuOpen(false)}
@@ -87,7 +87,7 @@ export default function HomeLanding1() {
             </div>
 
             <div>
-              <h3 className="text-orange-500 font-medium mb-4">FOLLOW DHANAPATI</h3>
+              <h3 className="text-orange-500 font-medium mb-4">FOLLOW Subh IT Company</h3>
               <div className="flex gap-4">
                 <a
                   href="#"
@@ -163,7 +163,7 @@ export default function HomeLanding1() {
           </h1>
 
           <p className="text-xl md:text-2xl leading-relaxed text-gray-700 text-left">
-            Dhanapati is a venture capital firm that backs bold entrepreneurs{" "}
+            Subh IT Company is a venture capital firm that backs bold entrepreneurs{" "}
             <span className="bg-blue-100 px-1">building the future</span>{" "}
             through technology. We are{" "}
             <span className="bg-blue-100 px-1">stage agnostic</span>. We invest

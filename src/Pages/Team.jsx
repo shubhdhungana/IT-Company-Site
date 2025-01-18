@@ -44,7 +44,7 @@ const Team = () => {
       {/* Navigation Menu */}
       <nav className="fixed top-0 left-0 right-0 bg-white z-50 px-6 py-4 flex items-center justify-between border-b">
         <Link to="/" className="flex items-center">
-          <img src={logo} alt="Dhanapati Logo" className="h-12 w-auto" />
+          <img src={logo} alt="Subh IT Company Logo" className="h-12 w-auto" />
         </Link>
 
         <div className="flex items-center gap-4">
@@ -67,7 +67,7 @@ const Team = () => {
                     <div className="p-6">
                       <div className="flex items-center justify-between mb-8">
                         <Link to="/" className="flex items-center">
-                          <img src={logo} alt="Dhanapati Logo" className="h-10 w-auto" />
+                          <img src={logo} alt="Subh IT Company Logo" className="h-10 w-auto" />
                         </Link>
                         <button
                           onClick={() => setIsMenuOpen(false)}
@@ -120,7 +120,7 @@ const Team = () => {
                         </div>
             
                         <div>
-                          <h3 className="text-orange-500 font-medium mb-4">FOLLOW DHANAPATI</h3>
+                          <h3 className="text-orange-500 font-medium mb-4">FOLLOW Subh IT Company</h3>
                           <div className="flex gap-4">
                             <a
                               href="#"

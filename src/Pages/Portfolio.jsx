@@ -57,7 +57,7 @@ const Portfolio = () => {
       {/* Navigation Menu */}
       <nav className="fixed top-0 left-0 right-0 bg-white z-50 px-6 py-4 flex items-center justify-between border-b">
         <Link to="/" className="flex items-center">
-          <img src={logo} alt="Dhanapati Logo" className="h-12 w-auto" />
+          <img src={logo} alt="Subh IT Company Logo" className="h-12 w-auto" />
         </Link>
 
         <div className="flex items-center gap-4">
@@ -84,7 +84,7 @@ const Portfolio = () => {
                       <div className="p-6">
                         <div className="flex items-center justify-between mb-8">
                           <Link to="/" className="flex items-center">
-                            <img src={logo} alt="Dhanapati Logo" className="h-12 w-auto" />
+                            <img src={logo} alt="Subh IT Company Logo" className="h-12 w-auto" />
                           </Link>
                           <button
                             onClick={() => setIsMenuOpen(false)}
